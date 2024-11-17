@@ -1,16 +1,33 @@
-## Hi there 👋
+# Welcome
 
-<!--
-**mxsgrs/mxsgrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some personal projects of mine which provide a showcase of my skills.
 
-Here are some ideas to get you started:
+## .NET 8
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Source code:
+
+[Repository](https://github.com/mxsgrs/starter)
+
+## React/NEXT.js
+
+Online pages:
+
+[Generate new estimate](https://glider-logistics.com/fr/new-estimate)
+
+[Dashboard](https://glider-logistics.com/fr/dashboard)
+
+[Login](https://glider-logistics.com/fr/login)
+
+Source code:
+
+[Repository](https://github.com/mxsgrs/glider)
+
+## Angular v18
+
+Online pages:
+
+[Tasks manager](https://orange-grass-008e19c03.5.azurestaticapps.net/task-manager)
+
+Source code:
+
+[Repository](https://github.com/mxsgrs/alamo)
